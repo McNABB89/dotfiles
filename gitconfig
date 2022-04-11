@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nabybathily@gmail.com
+	name = Naby Bathily
